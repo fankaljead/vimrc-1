@@ -29,7 +29,8 @@ set guioptions-=L
 
 " Colorscheme
 set background=dark
-colorscheme peaksea
+"colorscheme peaksea
+"hi Normal ctermbg=Black ctermfg=white
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
