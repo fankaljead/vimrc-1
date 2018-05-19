@@ -7,7 +7,7 @@ Over the last 10 years, I have used and tweaked Vim. This configuration is the u
 There are two versions:
 
 * **The Basic**: If you want something small just copy [basic.vim](https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim) into your ~/.vimrc and you will have a good basic setup
-* **The Awesome**: Includes a ton of useful plugins, color schemes, and configurations
+* **The Awesome**: Includes a to of useful plugins, color schemes, and configurations
 
 I would, of course, recommend using the awesome version.
 
@@ -16,7 +16,7 @@ I would, of course, recommend using the awesome version.
 ### Install for your own user only
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following from your terminal:
 
-	git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+	git clone --depth=1 https://github.com/fankaljead/dotfiles.git ~/.vim_runtime
 	sh ~/.vim_runtime/install_awesome_vimrc.sh
 	
 ### Install for multiple users
